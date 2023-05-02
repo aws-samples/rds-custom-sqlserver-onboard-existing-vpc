@@ -1,17 +1,6 @@
-## My Project
+## Onboard RDS Custom SQL Server in an existing VPC Environment
 
-TODO: Fill this README out!
+A CloudFormation Template that helps you onboard RDS Custom SQL Server in an existing VPC environment.
+## License Summary
 
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
-
-## Security
-
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
-
-## License
-
-This library is licensed under the MIT-0 License. See the LICENSE file.
-
+This sample code is made available under the MIT-0 license. See the LICENSE file.
